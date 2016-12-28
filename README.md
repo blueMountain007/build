@@ -1,5 +1,5 @@
 前端构建
 ========
 
-[webpack扫盲](./docs/webpack01.md)
+[webpack入门](./docs/webpack01.md)
 ----------------------------------
